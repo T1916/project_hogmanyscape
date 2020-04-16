@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*checking to see if it works*/
+
 public class ArrowScript : MonoBehaviour
 {
     public static int ArrowValue = 0;
